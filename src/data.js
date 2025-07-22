@@ -4,8 +4,8 @@ export const brainrotMemeData = [
     memes: [
       { name: 'LOWWWW Taper Fade', imageUrl: '/images/fade.jpg', views: 1200000, likes: 300000 },
       { name: 'Chopped Chin and Friends', imageUrl: '/images/chin.jpg', views: 634950,  likes: 263410 },
-      { name: 'Eye of Rah',  imageUrl: '/images/rah.webp', views: 436800,  likes: 1934630 },
-      { name: 'Property in Egypt', imageUrl: '/images/egypt.jpeg', views: 634650,  likes: 150 },
+      { name: 'Eye of Rah',  imageUrl: '/images/rah.webp', views: 436800,  likes: 34630 },
+      { name: 'Property in Egypt', imageUrl: '/images/egypt.jpeg', views: 634650,  likes: 100050 },
       { name: 'Johnny Walker', imageUrl: '/images/luke.jpeg', views: 534600,  likes: 136620 }
     ]
   },
