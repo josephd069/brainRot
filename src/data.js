@@ -3,10 +3,10 @@ export const brainrotMemeData = [
     month: 1,
     memes: [
       { name: 'LOWWWW Taper Fade', imageUrl: '/images/fade.jpg', views: 1200000000, likes: 300000000 },
-      { name: 'Chopped Chin and Friends', imageUrl: '/images/meme2.jpg', views: 950,  likes: 210 },
-      { name: 'Eye of Rah',  imageUrl: '/images/meme3.jpg', views: 800,  likes: 190 },
-      { name: 'Property in Egypt', imageUrl: '/images/meme4.jpg', views: 650,  likes: 150 },
-      { name: 'Pixel Knight', imageUrl: '/images/meme5.jpg', views: 500,  likes: 120 }
+      { name: 'Chopped Chin and Friends', imageUrl: '/images/fade.jpg', views: 950,  likes: 210 },
+      { name: 'Eye of Rah',  imageUrl: '/images/fade.jpg', views: 800,  likes: 190 },
+      { name: 'Property in Egypt', imageUrl: '/images/fade.jpg', views: 650,  likes: 150 },
+      { name: 'Pixel Knight', imageUrl: '/images/fade.jpg', views: 500,  likes: 120 }
     ]
   },
   {

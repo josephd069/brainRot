@@ -12,7 +12,7 @@ function MemeRankingComponent({ memes, metric, month, labels, lang }) {
           className="group bg-cardBg rounded-2xl shadow-md overflow-hidden transform transition hover:shadow-xl hover:-translate-y-1"
         >
           <img
-            src={m.imageUrl}
+            src={`${import.meta.env.BASE_URL}${m.imageUrl}`}
             alt={m.name}
             className="w-full h-48 object-fit"
           />
