@@ -8,7 +8,7 @@ function Top5Chart({ memes, metric, title, lang }) {
 
   return (
     <div className="bg-cardBg rounded-2xl shadow-md p-6">
-      <h2 className="text-xl font-heading text-primary mb-4">{title}</h2>
+      <h2 className="text-xl font-heading text-primary mb-4">Horizontal Chart</h2>
       <ResponsiveContainer width="100%" height={300}>
         <BarChart layout="vertical" data={data} margin={{ left: 100 }}>
           <CartesianGrid strokeDasharray="3 3" />

@@ -21,7 +21,7 @@ function MemeRankingComponent({ memes, metric, month, labels, lang }) {
               {i + 1}. {m.name}
             </h3>
             <p className="text-sm text-gray-600">
-              {labels[metric]}: {m[metric].toLocaleString(lang)}
+              {labels[metric]}{m[metric].toLocaleString(lang)}
             </p>
           </div>
         </div>
